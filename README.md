@@ -19,15 +19,14 @@ gone through from week 1 until now(which is seen below) and I also just recently
 completed soldering my PCB board and will go onto testing it.<br>
 <br>
 ## PCB Soldered:
-![pcb front](https://github.com/N01150244/pulsesensor/blob/master/pcb1.jpg) ![pcb back](https://github.com/N01150244/pulsesensor/blob/master/pcb2.jpg)
+
 
 <br>
 Proof of purchase
 ![proof](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
 ![proof](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
 # Week 4
-By this week we needed to hand in our Budget Report in exchange to get our GANTT chart back.<br>
--   [Budget Report](https://github.com/N01150244/pulsesensor/blob/master/BudgetKarandeepSingh.xlsx)
+
 
 # Week 3
 Gantt chart and plan for the capstone project was decided <br>
