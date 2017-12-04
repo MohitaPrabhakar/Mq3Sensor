@@ -1,8 +1,6 @@
 # MohitaPrabhakar-Mq3Sensor-
-Alcohol gas sensor for breathalyzer
+## Alcohol gas sensor for breathalyzer
 
-# Pulsesensor
-## Pulse rate sensor for breathalyzer
 # Week 7
 This week we had to have our PCB working and successfully booted up. Once booted it <br>
 the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
@@ -22,9 +20,11 @@ completed soldering my PCB board and will go onto testing it.<br>
 <br>
 ## PCB Soldered:
 ![pcb front](https://github.com/N01150244/pulsesensor/blob/master/pcb1.jpg) ![pcb back](https://github.com/N01150244/pulsesensor/blob/master/pcb2.jpg)
+
+<br>
 Proof of purchase
-
-
+![proof](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
+![proof](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
 # Week 4
 By this week we needed to hand in our Budget Report in exchange to get our GANTT chart back.<br>
 -   [Budget Report](https://github.com/N01150244/pulsesensor/blob/master/BudgetKarandeepSingh.xlsx)
