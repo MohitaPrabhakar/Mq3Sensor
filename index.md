@@ -5,7 +5,7 @@
 # Week 7
 >
 <br>
-
+![Alt text](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)<br>
 <br>
 ## PCB Soldered:
 <br>
