@@ -20,12 +20,10 @@ gone through from week 1 until now(which is seen below) and I also just recently
 completed soldering my PCB board and will go onto testing it.<br>
 <br>
 ## PCB Soldered:
-
-
 <br>
 Proof of purchase<br><br>
-![purchase1](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
-![purchase2](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
+![purchase1] (https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
+![purchase2] (https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
 # Week 4
 
 
