@@ -15,9 +15,7 @@ it showed the sensors being recognized.<br>
 ![greenled](https://github.com/N01150244/pulsesensor/blob/master/greenled.jpg) ![redled](https://github.com/N01150244/pulsesensor/blob/master/redled.jpg)
 ![sense1](https://github.com/N01150244/pulsesensor/blob/master/sense1.jpg) ![sense2](https://github.com/N01150244/pulsesensor/blob/master/sense2.jpg)<br>
 # Week 6
-By this week I updated my progress report that states all the things we have <br>
-gone through from week 1 until now(which is seen below) and I also just recently <br>
-completed soldering my PCB board and will go onto testing it.<br>
+
 <br>
 ## PCB Soldered:
 <br>
