@@ -10,16 +10,15 @@
 <br>
 ## PCB Soldered:
 <br>
-## Proof of purchase<br><br>
+
+
+
+# Week 4
+## Proof of Purchase
 <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG" alt="purchase1">
 <br>
-<br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG" alt="purchase2">
-<br>
-<br>
-# Week 4
-
 
 # Week 3
 Gantt chart and plan for the capstone project was decided <br>
