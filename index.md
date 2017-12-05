@@ -3,18 +3,8 @@
 ## Alcohol gas sensor for breathalyzer
 
 # Week 7
-This week we had to have our PCB working and successfully booted up. Once booted it <br>
-the sensors should be plugged in and working after running a program on the Raspberry Pi.<br>
-All my sensors were successfully working, and my LED also flashed.<br>
+>
 <br>
-There was a problem with my memory card at first with my Raspberry Pi,but after installing <br>
-the latest version of Raspbian,everything was working fine.I ran the "i2cdetect -y 1" command,<br>
-it showed the sensors being recognized.<br>
-<br>
-## PCB working with sensors detected:
-![greenled](https://github.com/N01150244/pulsesensor/blob/master/greenled.jpg) ![redled](https://github.com/N01150244/pulsesensor/blob/master/redled.jpg)
-![sense1](https://github.com/N01150244/pulsesensor/blob/master/sense1.jpg) ![sense2](https://github.com/N01150244/pulsesensor/blob/master/sense2.jpg)<br>
-# Week 6
 
 <br>
 ## PCB Soldered:
