@@ -24,8 +24,8 @@ completed soldering my PCB board and will go onto testing it.<br>
 
 <br>
 Proof of purchase<br><br>
-![proof](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
-![proof](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
+![purchase1](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
+![purchase2](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
 # Week 4
 
 
