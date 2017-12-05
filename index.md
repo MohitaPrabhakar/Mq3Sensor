@@ -20,8 +20,8 @@ it showed the sensors being recognized.<br>
 ## PCB Soldered:
 <br>
 Proof of purchase<br><br>
-![purchase1] (https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)
-![purchase2] (https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
+![purchase1](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)<br>
+![purchase2](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG)
 # Week 4
 
 
