@@ -7,7 +7,7 @@
 <br>
 ![Alt text](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)<br>
 <br>
-# PCB Soldered:
+## PCB Soldered:
 <br>
 Proof of purchase<br><br>
 ![purchase1](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG)<br>
