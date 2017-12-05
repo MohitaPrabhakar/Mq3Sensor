@@ -10,9 +10,14 @@
 <br>
 ## PCB Soldered:
 <br>
-Proof of purchase<br><br>
-![purchase1] (https://raw.githubusercontent.com/MohitaPrabhakar/Mq3Sensor/master/purchase1.PNG)     <br>
-![purchase2] (https://raw.githubusercontent.com/MohitaPrabhakar/Mq3Sensor/master/purchase2.PNG)
+## Proof of purchase<br><br>
+<br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG" alt="purchase1">
+<br>
+<br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase2.PNG" alt="purchase2">
+<br>
+<br>
 # Week 4
 
 
