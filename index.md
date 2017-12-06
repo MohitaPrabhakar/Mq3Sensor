@@ -9,8 +9,12 @@
 # Week 7
 <br>
 
+<br>
+
 
 # Strike
+
+
 ## PCB Soldered:
 I sent my PCB file to Humber Prototype Lab and in 3 business days I got my PCB BOARD ready.
 <br>
@@ -21,8 +25,12 @@ It took me almost 4 hours to Solder the slots and complete my PCB board and this
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/pcb1.jpg" alt="pcb1">
 <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/pcb2.jpg" alt="pcb2">
+<br>
 # Week 4
+In week 4, I had to submit my Budget Report and got evaluated on the Gantt Chart.
+I ordered my stuff for the Project and waited for the delivery.
 
+<br>
 ## Proof of Purchase
 <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG" alt="purchase1">
