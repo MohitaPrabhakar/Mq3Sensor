@@ -2,8 +2,13 @@
 # MohitaPrabhakar-Mq3Sensor-
 ## Alcohol gas sensor for breathalyzer
 
+
+
+
+
 # Week 7
 <br>
+
 
 # Strike
 ## PCB Soldered:
@@ -14,7 +19,10 @@ I sent my PCB file to Humber Prototype Lab and in 3 business days I got my PCB B
 It took me almost 4 hours to Solder the slots and complete my PCB board and this is the end result I got
 <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/pcb1.jpg" alt="pcb1">
+<br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/pcb2.jpg" alt="pcb2">
 # Week 4
+
 ## Proof of Purchase
 <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG" alt="purchase1">
@@ -28,5 +36,6 @@ Gantt chart and plan for the capstone project was decided <br>
 # Week 2
 We selected our sensor and derived a proposal<br>
 -   [Proposal](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/Capture.PNG)
+
 # Week 1
 In the first week test quiz was conducted in which we had to name 10 technical items which we shall bring to class everyday
