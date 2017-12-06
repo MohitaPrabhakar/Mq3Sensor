@@ -3,16 +3,17 @@
 ## Alcohol gas sensor for breathalyzer
 
 # Week 7
->
 <br>
-<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/purchase1.PNG" alt="W3Schools.com">
-![Alt text]()<br>
-<br>
+
+# Strike
 ## PCB Soldered:
+I sent my PCB file to Humber Prototype Lab and in 3 business days I got my PCB BOARD ready.
 <br>
-
-
-
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/mepcb.PNG" alt="W3Schools.com">
+<br>
+It took me almost 4 hours to Solder the slots and complete my PCB board and this is the end result I got
+<br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/pcb1" alt="W3Schools.com">
 # Week 4
 ## Proof of Purchase
 <br>
