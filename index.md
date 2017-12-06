@@ -9,14 +9,26 @@
 # Week 7
 <br>
 
+# Week 6
+Due to my travels plan in mid term of December ,I got a revised Schedule from Kristain for the hardware project.
+In this week ,I showed my Alcohol Gas sensor (MQ3) Working .It displayed "Alcohol is detected" ,if alcohol was brought near the sensor.The results are refreshed after every second.
+So this is the initial set up
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/1mq3.jpg"  alt="mepcb.jpg">
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/2mq3.jpg"  alt="mepcb.jpg">
+ After bringing the hand sanitizer near the sensor ,this is the output:-
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/4mq3.jpg"  alt="mepcb.jpg">
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/5mq3.jpg"  alt="mepcb.jpg">
+ 
 <br>
-
-
+#  Week 5 - November 27 2017 
+Due to strike, We didnt have to submit anything in the first week.
 # Strike
  During the Strike,I got my parts within 2 weeks and I started working on setting up the Raspberry Pi and installing raspbian on it.
 Also I did watch the Soldering tutorials online and sent the gerber files to Prototype lab department for printing the Board.
 
 Once PCB board was made after 3 business days, I soldered it with the help of a technician and got the LED blinked
+
+          
 
 ## PCB Soldered:
 <br>
@@ -31,7 +43,7 @@ It took me almost 4 hours to Solder the slots and complete my PCB board and this
 
 After the soldering,with the help of Vlad I got my LED blinked.
 
-# Week 4
+# Week 4   
 In week 4, I had to submit my Budget Report and got evaluated on the Gantt Chart.
 I ordered my stuff for the Project and waited for the delivery.
 
