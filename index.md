@@ -20,7 +20,9 @@ So this is the initial set up
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/3mq3.jpg"  alt="mepcb.jpg">
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/5mq3.jpg"  alt="mepcb.jpg">
  Hence the sensor works also,after the sanitizer is removed ,it displays "no alcohol detection after few seconds"
- <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/1mq3.jpg"  alt="mepcb.jpg">
+ <br>
+ 
+ <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/6mq3.jpg"  alt="mepcb.jpg">
 
  <br>
 #  Week 5 - November 27 2017 
