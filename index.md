@@ -14,7 +14,7 @@
 ## PCB Soldered:
 I sent my PCB file to Humber Prototype Lab and in 3 business days I got my PCB BOARD ready.
 <br>
-<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/mepcb.PNG" alt="mepcb.jpg">
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/mepcb.jpg" alt="mepcb.jpg">
 <br>
 It took me almost 4 hours to Solder the slots and complete my PCB board and this is the end result I got
 <br>
