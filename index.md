@@ -8,7 +8,7 @@ Since I am travelling next week I have 3 things due in week 8
 I have built video due, the group placard and the 30 second script due in the week 8.
 So Karandeep Singh and I are part of one group,We made the placard ,it somewhat looks like this.
 
--  [Placard:Breathalyzer] (https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/PlacardBreathalyzer.pub)
+-  [Placard:Breathalyzer](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/PlacardBreathalyzer.pub)
 
 - 
 
