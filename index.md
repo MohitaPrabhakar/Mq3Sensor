@@ -10,7 +10,7 @@ So Karandeep Singh and I are part of one group,We made the placard ,it somewhat 
 
 -  [Placard:Breathalyzer](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/PlacardBreathalyzer.pub)
 
-- [30 Second Script:Breathalyzer](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/30 sec script.docx)
+- [30 Second Script:Breathalyzer](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/30SecondScript.docx)
 
 
 # Week 7
