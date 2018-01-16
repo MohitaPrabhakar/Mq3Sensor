@@ -3,7 +3,7 @@
 ## Alcohol gas sensor for breathalyzer
 # Week 11
 I am all set for the final presentation due next week .This week I have uploaded my presentation ,and I came back from India inorder to Demonstrate my Final Hardware Sensor .
--  [MohitaPrabhakar] (https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/MohitaPrabhakar.pptx)
+-  [MohitaPrabhakar](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/MohitaPrabhakar.pptx)
 
 # Week 9
 https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/ProgressReport(1).docx
