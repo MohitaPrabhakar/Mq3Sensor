@@ -6,7 +6,8 @@ I am all set for the final presentation due next week .This week I have uploaded
 -  [MohitaPrabhakar](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/MohitaPrabhakar.pptx)
 
 # Week 9
-https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/ProgressReport(1).docx
+This week I worked from India on Progress Report
+-  [Progress Report](https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/ProgressReport(1).docx)
 
 
 # Week 8
