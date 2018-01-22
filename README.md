@@ -32,3 +32,13 @@ Select the drive of your SD card in the ‘Device’ dropdown.
 
 #### Step 4: Put the microSD card in your Pi and boot up
 Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete.
+ 
+ 
+ ### Writing the Script for the MQ3 sensor
+ Here is the python Script I used to test my alcohol gas sensor.
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/Python.png"  alt=""> 
+
+### Unit Testing
+
+
+### Production Testing
