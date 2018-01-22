@@ -10,4 +10,6 @@ This Sensor will be used with the app known as Breathalyzer which is made for pe
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/Capture.PNG" alt="">
 
 ### Budget 
-<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/Picture1.jpg"  alt="">
+The stuff required for creating the Breathalyzer can be seen below,
+
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/Picture1.png"  alt="">
