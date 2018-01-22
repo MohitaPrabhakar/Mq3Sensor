@@ -22,3 +22,13 @@ After receiving the order,installing necessary stuff on the raspberry pi,it took
 After receiving the order, the first step is installing Raspian on Raspberry Pi.These are the steps for installation as given below:-
 
 #### Step 1: Download Raspbian
+It can easily take more than half an hour to download the software.Download Noobs from https://www.raspberrypi.org/downloads/ 
+
+#### Step 2: Unzip the file
+The Raspbian disc image is compressed, so you’ll need to unzip it. The file uses the ZIP64 format, so depending on how current your built-in utilities are, you need to use certain programs to unzip it.
+
+#### Step 3: Write the disc image to your microSD card
+Select the drive of your SD card in the ‘Device’ dropdown.
+
+#### Step 4: Put the microSD card in your Pi and boot up
+Select ‘Write’ and wait for the process to finish which may take around 20 minutes to complete.
