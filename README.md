@@ -35,8 +35,9 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
  
  
  ### Writing the Script for the MQ3 sensor
- Here is the python Script I used to test my alcohol gas sensor.
-<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/python.PNG"  alt=""> 
+ Here is the python Script I used to test my alcohol gas sensor. <br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/python.PNG"  alt=""> <br>
+<br>
 
 ### Unit Testing
 
