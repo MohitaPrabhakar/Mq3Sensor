@@ -38,6 +38,13 @@ Select ‘Write’ and wait for the process to finish which may take around 20 m
  Here is the python Script I used to test my alcohol gas sensor. <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/python.PNG"  alt=""> <br>
 <br>
+Th Raspberry pi is connected with the Mq3 sensor in such a way that VCC,Dout,Aout of the MQ3 Sensor is connected to the pin Vcc(4),Ground(6) and GPIO14(8) respectively as given below in the picture.
+<br>
+After the connections are made ,the python script is made to run.
+<br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/sensorconnection.PNG"><br>
+
+
 
 ### Unit Testing
 
