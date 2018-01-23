@@ -44,9 +44,16 @@ After the connections are made ,the python script is made to run.
 <br>
 <img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/sensorconnection.PNG"><br>
 
-
-
 ### Unit Testing
+After running the Python Script,two situations arise .
+In the first situation ,the surrounding is normal,i.e. no alcohol is brought near the sensor.The output of the screen is
+<br>
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/result1.PNG">
+<br>
+In the second situation,alcohol is brought near the Sensor.The output I got was,
+<br> 
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/result1.PNG">
+<br>
 
 
 ### Production Testing
