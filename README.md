@@ -52,7 +52,7 @@ In the first situation ,the surrounding is normal,i.e. no alcohol is brought nea
 <br>
 In the second situation,alcohol is brought near the Sensor.The output I got was,
 <br> 
-<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/result1.PNG">
+<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/result2.PNG">
 <br>
 
 
