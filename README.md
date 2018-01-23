@@ -52,8 +52,7 @@ In the first situation ,the surrounding is normal,i.e. no alcohol is brought nea
 <br>
 In the second situation,alcohol is brought near the Sensor.The output I got was,
 <br> 
-<img src="https://github.com/MohitaPrabhakar/Mq3Sensor/blob/master/result2.PNG">
-<br>
-
+#### The results are refreshed after every 1-2 seconds
 
 ### Production Testing
+The project can be used on a large scale,after connecting it with the heart rate sensor,which would further help in calculating BAC level.This project would act like a Breathalyzer for general public for controlling alcohol intake.The python script can run multiple times and display right results.Also the project is reproducable.It is indeed a very simple project,if you follow the guidelines listed.
